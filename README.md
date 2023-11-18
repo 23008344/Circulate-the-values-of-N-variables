@@ -35,8 +35,9 @@ print("After circulating the values are:",circulate())
 
 
 ## Output:
-![circulate-N-variable](https://github.com/23008344/Circulate-the-values-of-N-variables/assets/145742655/ff5fac68-49e1-421b-931b-ce3e1a793d19)
 
+
+![circulate img](https://github.com/23008344/Circulate-the-values-of-N-variables/assets/145742655/fcd037fb-230a-4af1-b0aa-07abf476f04e)
 
 
 ## Result:
