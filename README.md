@@ -33,7 +33,9 @@ print("After circulating the values are:",circulate())
 
 
 ## Output:
-![output](circulate-N-variable.png)
+![circulate-N-variable](https://github.com/23008344/Circulate-the-values-of-N-variables/assets/145742655/ff5fac68-49e1-421b-931b-ce3e1a793d19)
+
+
 
 ## Result:
 Thus the circulate of two values are successfully executed
